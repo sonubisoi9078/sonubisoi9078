@@ -1,5 +1,5 @@
 # sonubisoi9078
-this is my first git repository
+This is my first git repository
 <br>
 Author - SONU BISOI
 

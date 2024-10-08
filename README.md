@@ -1,4 +1,6 @@
-## Hi there 👋
+# sonubisoi9078
+this is my first git repository
+Author - SONU BISOI
 
 <!--
 **sonubisoi9078/sonubisoi9078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
